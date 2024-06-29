@@ -1,0 +1,5 @@
+K, J, H = input().split()
+K, J, H = int(K), int(J), int(H)
+k, j, h = input().split()
+k, j, h = int(k), int(j), int(h)
+print(k+K, j+J, h+H)
